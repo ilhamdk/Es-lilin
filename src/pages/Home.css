@@ -13,7 +13,6 @@
 }
 .bf97b2b290a48abb043d36485403ea-icon {
   position: relative;
-  top: -1.5rem;
   left: -1rem;
   width: 10.75rem;
   height: 12.5rem;
@@ -29,6 +28,7 @@
   flex-direction: column;
   align-items: flex-start;
   justify-content: center;
+  font-size: 1.3rem;
   gap: var(--gap-9xl);
   margin-left: -1rem;
 }
